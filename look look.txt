@@ -1,0 +1,7 @@
+Installer les bibliothèques
+--->   pip install pandas scikit-learn streamlit openpyxl joblib
+
+
+Lancer l'interface Dans terminal
+---->   streamlit run app.py
+http://localhost:8501
