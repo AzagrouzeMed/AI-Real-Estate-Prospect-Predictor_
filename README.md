@@ -15,6 +15,8 @@ Based on this information, the model predicts whether the client is likely to bu
 - Scikit-learn
 - Streamlit
 - Machine Learning
+- joblib
+- openpyxl
 
 ## Features
 
